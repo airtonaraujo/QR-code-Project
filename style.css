@@ -14,13 +14,7 @@ body{
 	display: grid;
 	place-content: center;
 }
-.conjunto {
-    margin-top: 10%;
-    margin-bottom: 10%;
-    display: flex;
-    justify-content: center;
-    
-}
+
 .todo {
     background: white;
     height: 485px;
@@ -41,8 +35,7 @@ body{
     font-family: 'Outfit';
     text-align: center;
     font-style: normal;
-    font-weight: 700;
-    font-display: swap;
+    font-weight: 700;    
 }
 
 .todo-texto-titulo {
